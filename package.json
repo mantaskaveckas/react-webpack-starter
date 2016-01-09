@@ -1,0 +1,19 @@
+{
+  "name": "react-webpack-starter",
+  "version": "1.0.0",
+  "description": "Dead simple React + Webpack starter kit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaveckas/react-webpack-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaveckas/react-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/Kaveckas/react-webpack-starter#readme"
+}
